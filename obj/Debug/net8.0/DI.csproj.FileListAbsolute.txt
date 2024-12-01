@@ -1,0 +1,14 @@
+D:\Devs\asp.net core\DI\obj\Debug\net8.0\DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\DI\obj\Debug\net8.0\DI.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\DI\obj\Debug\net8.0\DI.AssemblyInfo.cs
+D:\Devs\asp.net core\DI\obj\Debug\net8.0\DI.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\DI\bin\Debug\net8.0\DI.exe
+D:\Devs\asp.net core\DI\bin\Debug\net8.0\DI.deps.json
+D:\Devs\asp.net core\DI\bin\Debug\net8.0\DI.runtimeconfig.json
+D:\Devs\asp.net core\DI\bin\Debug\net8.0\DI.dll
+D:\Devs\asp.net core\DI\bin\Debug\net8.0\DI.pdb
+D:\Devs\asp.net core\DI\obj\Debug\net8.0\DI.dll
+D:\Devs\asp.net core\DI\obj\Debug\net8.0\refint\DI.dll
+D:\Devs\asp.net core\DI\obj\Debug\net8.0\DI.pdb
+D:\Devs\asp.net core\DI\obj\Debug\net8.0\DI.genruntimeconfig.cache
+D:\Devs\asp.net core\DI\obj\Debug\net8.0\ref\DI.dll
